@@ -9,7 +9,7 @@
 - 支持直接和 unplugin-vue-components 插件一起使用 (推荐)
 - 自动生成 dts 文件，图标名称支持 ts 类型提示
 
-  ![demo](./images/demo.png)
+  ![demo](http://bucket.keuby.com/demo.png)
 
 ## 如何使用
 
